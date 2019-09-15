@@ -1,3 +1,12 @@
 require_relative "../lib/my_all.rb"
 
+# Method my_all?
+def my_call?(collection)
+
+
+end
+
+
+
+# TEST CODE
 my_all?([1,2,3]) {|i| i < 2}
